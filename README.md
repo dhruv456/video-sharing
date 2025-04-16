@@ -1,2 +1,3 @@
 # video-sharing
-a video sharing platform's back-end
+
+a video sharing platform's back-end.
